@@ -17,8 +17,8 @@ Check out the live version of the website here:
 ## 🛠️ Technologies Used
 
 - HTML5, CSS3, JavaScript
-- [Add frameworks or libraries if applicable, e.g., React, Next.js]
-- [Any other tools, e.g., Styled Components, Tailwind CSS, etc.]
+- React Js
+- Tailwind CSS
 
 ## 📁 Getting Started
 
